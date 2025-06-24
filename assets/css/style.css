@@ -214,3 +214,55 @@ font-size: 14px;
   font-size: 14px;
 }
 
+.footer-5 {
+  padding: 15px 30px;
+}
+
+.footer-5 .player-controls {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.footer-5 .track-info {
+  text-align: center;
+}
+
+.footer-5 .track-info p {
+  color: #b3b3b3;
+  font-size: 12px;
+  margin: 0;
+}
+
+.footer-5 .track-info h4 {
+  margin: 5px 0 15px;
+  font-size: 16px;
+}
+
+.footer-5 .controls {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+
+}
+.footer-5 .controls button {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.footer-5 .progress-bar {
+  height: 4px;
+  background: #333;
+  border-radius: 2px;
+  margin-top: 10px;
+}
+
+.footer-5 .progress {
+  height: 100%;
+  width: 30%;
+  background: #1DB954;
+  border-radius: 2px;
+}
