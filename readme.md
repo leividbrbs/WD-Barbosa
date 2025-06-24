@@ -4,16 +4,16 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/leividbrbs">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/leivify.webp" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Quackeroo</h3>
+  <h3 align="center">Leivify</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  QUACKQUACK. (Optional)
+  Leivify is a dynamic music streaming app that offers users a personalized listening experience with curated playlsits, artist radio stations, and seamless offline access. Discover new tracks, connect with friends, and enjoy high-quality audio, all while exploring a vast library of songs from around the world. (Optional)
 </div>
 
 <br />
