@@ -36,3 +36,14 @@ body {
   cursor: pointer;
   transition: color 0.2s;
 }
+
+.nav-button:hover {
+  color: #1DB954;
+}
+
+.profile {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  object-fit: cover;
+}
