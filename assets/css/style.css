@@ -64,3 +64,19 @@ body {
   justify-content: center;
   gap: 40px;
 }
+
+/* Header 3 */
+/* Left Grouped */
+
+.header-3 .nav-buttons {
+  display: flex;
+  flex: 1;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.header-3 .profile-container {
+  margin-left: auto;
+}
+
+
+
