@@ -184,3 +184,33 @@ font-size: 14px;
   font-size: 14px;
 }
 
+.footer-4 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-4 .language-selector {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.footer-4 select {
+  background: black;
+  color: white;
+  border: 1px solid #333;
+  padding: 5px;
+}
+
+.footer-4 .minimal-links {
+  display: flex;
+  gap: 20px;
+}
+
+.footer-4 .minimal-links a {
+  color: white;
+  text-decoration: none;
+  font-size: 14px;
+}
+
