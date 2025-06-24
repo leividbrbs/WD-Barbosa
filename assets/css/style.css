@@ -139,3 +139,29 @@ font-size: 14px;
   font-size: 12px;
 }
 
+.footer-2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-2 .social-links {
+  display: flex;
+  gap: 20px;
+}
+
+.footer-2 .social-links a {
+  color: white;
+  text-decoration: none;
+}
+
+.footer-2 .app-download button {
+  background: #1DB954;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
