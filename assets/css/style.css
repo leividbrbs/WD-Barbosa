@@ -12,10 +12,10 @@ body {
   background-color: #000;
   display: flex;
   align-items: center;
-  position: sticky
+  position: sticky;
   top: 0;
   z-index: 100;
-  border-button: 1px solid #282828
+  border-bottom: 1px solid #282828;
 }
 
 .spotify-logo {
@@ -56,4 +56,11 @@ body {
 }
 .header-1 .nav-buttons{
   display: flex;
+}
+
+/* Header 2 */
+/* Centered Layout */
+.header-2 {
+  justify-content: center;
+  gap: 40px;
 }
