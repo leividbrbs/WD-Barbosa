@@ -91,3 +91,25 @@ body {
   gap: 20px;
 }
 
+/* Header 5 */
+/* Split Layout */
+.header-5 .left-group{
+  display: flex;
+  align-items: center;
+}
+.header-5 .right-group {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+section{
+  margin-bottom: 30vh;
+  padding: 50px 30px;
+
+}
+
+h2{
+  color: #1DB954;
+  margin-bottom: 30px;
+}
